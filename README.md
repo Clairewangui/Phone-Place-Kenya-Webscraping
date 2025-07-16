@@ -4,9 +4,10 @@ The script automatically navigates the websites, extracts product details such a
 
 ---
 ## Features
--Uses Selenium for browser automation 
--Structured data Excel data Output
--Scrapes multiple Phone Listings
+
+#Uses Selenium for browser automation 
+#Structured data Excel data Output
+#Scrapes multiple Phone Listings
 
 ---
 ## Requirements
